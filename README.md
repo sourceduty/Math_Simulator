@@ -19,7 +19,7 @@ Finally, beyond just providing insights, 'Math Simulator' discusses the practica
 
 [Theorem Proof](https://github.com/sourceduty/Theorem_Proof)
 <br>
-[Theory Solver](https://chat.openai.com/g/g-7Xrh3rjDS-theory-solver)
+[Theory Proof](https://github.com/sourceduty/Theory_Proof)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

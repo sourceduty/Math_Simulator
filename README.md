@@ -14,5 +14,10 @@ Finally, beyond just providing insights, 'Math Simulator' discusses the practica
 
 > Alex: *"Math is the knowledgable utilization of quantifying and accounting using equations to measure structures, shapes and spaces."*
 
+#
+### Related Links
+
+[Theorem Proof](https://github.com/sourceduty/Theorem_Proof)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

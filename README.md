@@ -18,6 +18,8 @@ Finally, beyond just providing insights, 'Math Simulator' discusses the practica
 ### Related Links
 
 [Theorem Proof](https://github.com/sourceduty/Theorem_Proof)
+<br>
+[Theory Solver](https://chat.openai.com/g/g-7Xrh3rjDS-theory-solver)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

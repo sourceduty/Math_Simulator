@@ -14,6 +14,8 @@ Finally, beyond just providing insights, 'Math Simulator' discusses the practica
 
 > Alex: *"Math is the knowledgable utilization of quantifying and accounting using equations to measure structures, shapes and spaces."*
 
+> "*70000 + 10000 + 500 + 300 + 50 + 30 + 5 = 80085 = BOOBS*"
+
 #
 ### Related Links
 

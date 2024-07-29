@@ -24,6 +24,8 @@ Finally, beyond just providing insights, 'Math Simulator' discusses the practica
 [Theory Proof](https://github.com/sourceduty/Theory_Proof)
 <br>
 [Calendar Math](https://github.com/sourceduty/Calendar_Math)
+<br>
+[GPT_Simulator](https://github.com/sourceduty/GPT_Simulators)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
